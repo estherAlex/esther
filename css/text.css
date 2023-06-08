@@ -1,0 +1,86 @@
+/* mywebsite*/
+
+div{
+    min-height: 100px;
+    border: 1px solid red;
+   
+   
+}
+#navb{
+    background-color: rgba(235, 237, 244, 0.871);
+    
+}
+#rows{
+    justify-content: space-between;
+}
+
+.box{
+   background-color:rgba(245, 245, 245, 0.192); 
+   color: white; 
+}
+
+pix{
+    justify-content: space-between;
+}
+#center{
+   
+    color:white;
+}
+#centerdiv{
+    
+    color: black;
+}
+#footer{
+    justify-content: space-between;
+}
+h2{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+#pag{
+    text-align: center;
+}
+#copyright{
+    text-align: center;
+}
+#art{
+    text-align: center;
+}
+#myproject{
+    text-align: center;
+    color: white;
+}
+p{
+    color: white;
+}
+.blogback{
+    background-color: rgba(255, 192, 239);
+    color: black;
+}
+#blog{
+    justify-content: space-between;
+}
+.dropdiv{
+    background-color: aqua;
+    border:1px solid red;
+    bottom:330px;
+}
+
+
+/* 
+	height:300px;
+	width:300px;
+	background-color:green;
+			
+			left:380px;
+			 */
+/* .img{
+    background-image: url(images/dark.jpg);
+    min-height:200px;
+    background-image:fixed;
+    background-position:bottom;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+} */
